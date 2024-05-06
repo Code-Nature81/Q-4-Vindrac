@@ -2,7 +2,7 @@
 let questions = [
     {
     numb: 4,
-    question: "Vous êtes amis de la nature vous remarquerez une variété d’arbres et d’arbustes qui borde ce sentier , Trouver en un de représentatif de notre région ?",
+    question: "Vous êtes amis de la nature vous remarquerez une variété d’arbres et d’arbustes qui bordent ce sentier. Trouver en un de représentatif de notre région ",
     answer: "2) Le frêne",
     options: [
       "1) Le palmier",
